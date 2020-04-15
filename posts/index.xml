@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>hhttps://martinsandecosta.github.io/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on MartinSandeCosta</title>
+    <link>https://martinsandecosta.github.io/posts/</link>
+    <description>Recent content in Posts on MartinSandeCosta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
     
-	<atom:link href="hhttps://martinsandecosta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martinsandecosta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>hhttps://martinsandecosta.github.io/posts/my-first-post/</link>
+      <link>https://martinsandecosta.github.io/posts/my-first-post/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>hhttps://martinsandecosta.github.io/posts/my-first-post/</guid>
+      <guid>https://martinsandecosta.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
